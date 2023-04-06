@@ -2,5 +2,10 @@
 222
 333
 444
+<<<<<<< HEAD
 123
 line from Good Evening! [From branch main]
+=======
+Line from user2
+line from user1
+>>>>>>> d81ef7dc2333aa0902005f155a906ebc8c441e9d
